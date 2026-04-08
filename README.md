@@ -9,11 +9,8 @@ A C# Console Application implementing advanced Design Patterns including Generic
 </ul>
     <h4>Architecture View</h4>
 <strong>Models:</strong> Orders.cs, Riders.cs (Data structure)
-
 <strong>Repository:</strong> IRepo.cs, GeniricRepo.cs (Data Handling)
-
 <strong>Factory:</strong> IRepoFectory.cs, RepoFectoy.cs (Creation Logic)
-
 <strong>Consumer:</strong> Test.cs, Program.cs (Execution)
 
 
