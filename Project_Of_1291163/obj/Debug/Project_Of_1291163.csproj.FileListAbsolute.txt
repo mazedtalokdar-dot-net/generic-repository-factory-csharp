@@ -1,0 +1,16 @@
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.exe.config
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.exe
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.pdb
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.csproj.AssemblyReference.cache
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.csproj.CoreCompileInputs.cache
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.exe
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.pdb
+E:\IsDB\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.exe.config
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.exe.config
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.exe
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\bin\Debug\Project_Of_1291163.pdb
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.csproj.AssemblyReference.cache
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.exe.config
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.csproj.CoreCompileInputs.cache
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.exe
+E:\IsDB\Prectice and Others\C# prectices\1291163_Abdul_Mazed\Project_Of_1291163\obj\Debug\Project_Of_1291163.pdb
