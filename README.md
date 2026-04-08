@@ -8,9 +8,9 @@ A C# Console Application implementing advanced Design Patterns including Generic
     <li>Test-Driven Logic: Includes a Test.cs class to demonstrate real-time CRUD operations on Orders and Riders data.</li>
 </ul>
     <h4>Architecture View</h4>
-<strong>Models:</strong> Orders.cs, Riders.cs (Data structure)
-<strong>Repository:</strong> IRepo.cs, GeniricRepo.cs (Data Handling)
-<strong>Factory:</strong> IRepoFectory.cs, RepoFectoy.cs (Creation Logic)
+<strong>Models:</strong> Orders.cs, Riders.cs (Data structure)<br>
+<strong>Repository:</strong> IRepo.cs, GeniricRepo.cs (Data Handling)<br>
+<strong>Factory:</strong> IRepoFectory.cs, RepoFectoy.cs (Creation Logic)<br>
 <strong>Consumer:</strong> Test.cs, Program.cs (Execution)
 
 
